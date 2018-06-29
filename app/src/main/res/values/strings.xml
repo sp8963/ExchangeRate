@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="text">台幣換</string>
+    <string name="change">轉換</string>
+    <string-array name="money">
+        <item>美金  </item>
+        <item> 港幣  </item>
+        <item>  英镑 </item>
+        <item>澳幣  </item>
+        <item> 加拿大幣 </item>
+        <item>新加坡幣  </item>
+        <item>瑞士法朗  </item>
+        <item> 日圓  </item>
+        <item> 南非幣  </item>
+        <item>  瑞典幣 </item>
+        <item>紐圓  </item>
+        <item> 泰幣  </item>
+        <item> 菲國比索</item>
+        <item> 印尼幣</item>
+        <item> 歐元</item>
+        <item> 韓元</item>
+        <item> 越南幣</item>
+        <item> 馬來幣</item>
+        <item> 人民幣</item>
+    </string-array>
+</resources>
